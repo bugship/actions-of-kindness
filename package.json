@@ -1,0 +1,12 @@
+{
+  "name": "actions-of-kindness",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample service with GitHub Actions CI and container build",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/server.test.js"
+  },
+  "license": "MIT"
+}
